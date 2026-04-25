@@ -118,13 +118,13 @@ export default function App() {
               </button>
             ))}
             <a
-              href="https://forms.gle/buoPn38418G8VzkE9"
+              href="https://forms.gle/cXaYWy3ESftjnK6w5"
               target="_blank"
               rel="noopener noreferrer"
               className="ml-3 inline-flex items-center gap-1.5 bg-gradient-to-r from-violet-600 to-purple-700 hover:from-violet-700 hover:to-purple-800 text-white text-sm font-semibold py-2 px-5 rounded-lg shadow-md shadow-violet-200 hover:shadow-lg hover:shadow-violet-300 transition-all duration-200"
             >
               <Sparkles size={14} />
-              Early Access
+              Join Our Waitlist
             </a>
           </div>
 
@@ -159,7 +159,7 @@ export default function App() {
                 rel="noopener noreferrer"
                 className="block w-full text-center bg-gradient-to-r from-violet-600 to-purple-700 text-white font-semibold py-3 px-5 rounded-lg mt-2"
               >
-                Join Early Access
+                I am a Cleaner
               </a>
             </div>
           </div>
