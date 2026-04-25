@@ -371,7 +371,7 @@ export default function App() {
 
           {/* Header */}
           <div className="text-center mb-14">
-            <span className="inline-block bg-violet-100 text-violet-700 text-xs font-extra bold tracking-widest uppercase px-4 py-1.5 rounded-full mb-4">Coming Soon</span>
+            <span className="inline-block bg-violet-100 text-violet-700 text-l font-bold tracking-widest uppercase px-4 py-1.5 rounded-full mb-4">Coming Soon</span>
             <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight mb-4">
               AI-Powered Cleaner Matching
             </h2>
