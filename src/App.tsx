@@ -124,7 +124,7 @@ export default function App() {
               className="ml-3 inline-flex items-center gap-1.5 bg-gradient-to-r from-violet-600 to-purple-700 hover:from-violet-700 hover:to-purple-800 text-white text-sm font-semibold py-2 px-5 rounded-lg shadow-md shadow-violet-200 hover:shadow-lg hover:shadow-violet-300 transition-all duration-200"
             >
               <Sparkles size={14} />
-              Join Our Waitlist
+              I am a Cleaner
             </a>
           </div>
 
@@ -181,17 +181,17 @@ export default function App() {
               </span>
             </h1>
             <p className="text-lg sm:text-xl text-gray-600 mb-8 leading-relaxed max-w-lg">
-              Connect with vetted, local housekeepers in minutes. Save time, enjoy a spotless home — powered by smart AI matching.
+              Connect with vetted, local Cleaners in minutes. Save time, enjoy a spotless home — powered by smart AI matching.
             </p>
             <div className="flex flex-col sm:flex-row gap-3">
               <a
-                href="https://forms.gle/buoPn38418G8VzkE9"
+                href="https://forms.gle/cXaYWy3ESftjnK6w5"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-violet-600 to-purple-700 hover:from-violet-700 hover:to-purple-800 text-white font-bold py-4 px-8 rounded-xl shadow-lg shadow-violet-200 hover:shadow-xl hover:shadow-violet-300 transition-all duration-200 text-base sm:text-lg"
               >
                 <Sparkles size={20} />
-                Join Early Access
+                Join Our Waitlist
               </a>
               <a
                 href="https://wa.me/+447598833724"
@@ -228,7 +228,7 @@ export default function App() {
           </div>
           <div className="bg-white-50 rounded-2xl p-8 md:p-12 shadow-sm border border-gray-100 mb-14">
             <p className="text-lg md:text-xl text-gray-700 leading-relaxed text-center max-w-3xl mx-auto">
-              Dusty is a platform that connects busy households in the UK with trusted, vetted housekeepers. We believe everyone deserves a clean home without the stress of finding and managing cleaners.
+              Dusty is a platform that connects busy households in the UK with trusted, vetted Cleaners. We believe everyone deserves a clean home without the stress of finding and managing cleaners.
             </p>
           </div>
           <div className="grid sm:grid-cols-3 gap-6">
@@ -418,7 +418,7 @@ export default function App() {
 
               {/* CTA button */}
               <a
-                href="https://forms.gle/buoPn38418G8VzkE9"
+                href="https://forms.gle/2uwnr78kwXkRvCyV8"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-violet-600 to-purple-700 hover:from-violet-700 hover:to-purple-800 text-white font-bold py-4 px-8 rounded-xl shadow-lg shadow-violet-200 hover:shadow-xl hover:shadow-violet-300 transition-all duration-200"
@@ -467,12 +467,12 @@ export default function App() {
               Join our exclusive early access list and be among the first to use Dusty's AI-powered app.
             </p>
             <a
-              href="https://forms.gle/buoPn38418G8VzkE9"
+              href="https://forms.gle/8HSmKuxoL45e2VLd7"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-violet-600 to-purple-700 hover:from-violet-700 hover:to-purple-800 text-white font-bold py-4 px-8 rounded-xl shadow-lg shadow-violet-200 hover:shadow-xl hover:shadow-violet-300 transition-all duration-200 text-lg"
             >
-              Join Early Access Now
+              Join as a Cleaner
               <ArrowRight size={18} />
             </a>
           </div>
@@ -542,7 +542,7 @@ export default function App() {
             <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
               <p className="text-gray-500 text-sm">&copy; 2024 Dusty. All rights reserved.</p>
               <a
-                href="https://forms.gle/buoPn38418G8VzkE9"
+                href="https://forms.gle/jmo8bohUy54Zumfj6"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-violet-600 to-purple-700 hover:from-violet-700 hover:to-purple-800 text-white font-semibold py-2.5 px-6 rounded-lg shadow-md shadow-violet-900/30 transition-all duration-200 text-sm"
